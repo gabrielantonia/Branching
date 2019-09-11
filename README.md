@@ -7,3 +7,4 @@
 
 ### Basic Branching
 * 'git branch branchName' - Create a new branch
+* 'git checkout -b branchName'
